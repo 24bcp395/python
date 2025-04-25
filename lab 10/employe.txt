@@ -1,0 +1,4 @@
+empcode:190098
+empname:manav
+doj:2025-02-15
+salary:80000
